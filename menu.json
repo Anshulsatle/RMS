@@ -1,0 +1,42 @@
+{"data" : [
+    {
+        "item_name" : "pizza",
+        "price" : 199
+    },
+    {
+        "item_name" : "burger",
+        "price" : 120
+    },
+    {
+        "item_name" : "Noddles",
+        "price" : 89
+    },
+    {
+        "item_name" : "maggie",
+        "price" : 60
+    },
+    {
+        "item_name" : "cold coffee",
+        "price" : 80
+    },
+    {
+        "item_name" : "French Fries",
+        "price" : 99
+    },
+    {
+        "item_name" : "mohito",
+        "price" : 80
+    },
+    {
+        "item_name" : "Dhosa",
+        "price" : 60
+    },
+    {
+        "item_name" : "Idli",
+        "price" : 50
+    },
+    {
+        "item_name" : "Hot dog",
+        "price" : 140
+    }
+]}

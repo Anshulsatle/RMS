@@ -1,0 +1,13 @@
+ORDER NUMBER : OD4362
+CUSTOMER NAME : Anshul Satle
+CUSTOMER PHONE No : 8965998631
+ORDERS
+********************
+ITEM  QUANTITY PRICE
+French Fries     4      396
+Hot dog     0      0
+
+STUDENT DISCOUNT 5%
+TAX              18%
+********************
+GRAND TOTAL     444/-
